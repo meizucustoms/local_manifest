@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="meizucustoms/android_device_meizu_m1721" path="device/meizu/m1721" remote="github" revision="lineage-14.1" />
-  <project name="meizucustoms/proprietary_vendor_meizu_m1721" path="vendor/meizu/m1721" remote="github" revision="lineage-14.1" />
+  <project name="meizucustoms/android_device_meizu_m1721" path="device/meizu/m1721" remote="github" revision="сm-14.1" />
+  <project name="meizucustoms/proprietary_vendor_meizu_m1721" path="vendor/meizu/m1721" remote="github" revision="cm-14.1" />
+  <project name="meizucustoms/android_kernel_meizu_m1721" path="kernel/meizu/m1721" remote="github" revision="сm-14.1" />
 </manifest>
