@@ -1,0 +1,11 @@
+# [LMDW DATABASE v0.1a] [ARGS: null]
+
+# BRANCHES
+$dbpart add branch cm-14.1
+
+# CONFIGS
+$dbpart add config cm-14.1 main_m3s \
+    "https://raw.githubusercontent.com/meizucustoms/local_manifest/master/m3s_n.xml"
+
+# DEVICES
+$dbpart add device m3s "main_m3s"
