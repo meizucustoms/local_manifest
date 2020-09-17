@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="meizucustoms/android_device_meizu_m3s" path="device/meizu/m3s" remote="github" revision="cm-14.1" />
+  <project name="meizucustoms/android_vendor_meizu_m3s" path="vendor/meizu/m3s" remote="github" revision="cm-14.1" />
+</manifest>
