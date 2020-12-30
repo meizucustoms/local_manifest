@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="meizucustoms/android_device_meizu_m1721" path="device/meizu/m1721" remote="github" revision="pixelexperience-pie" />
+  <project name="meizucustoms/proprietary_vendor_meizu_m1721" path="vendor/meizu/m1721" remote="github" revision="pixelexperience-pie" />
+  <project name="meizucustoms/android_kernel_meizu_m1721" path="kernel/meizu/m1721" remote="github" revision="pixelexperience-pie" />
+</manifest>
