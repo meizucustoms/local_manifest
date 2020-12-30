@@ -9,6 +9,9 @@ $dbpart add branch lineage-17.1
 $dbpart add config cm-14.1 main_m1721 \
     "https://raw.githubusercontent.com/meizucustoms/local_manifest/master/mzlocal_nougat.xml"
     
+$dbpart add config pixel-pie main_m1721 \
+    "https://raw.githubusercontent.com/meizucustoms/local_manifest/master/mzlocal_pie.xml"
+    
 $dbpart add config lineage-17.1 main_m1721 \
     "https://raw.githubusercontent.com/meizucustoms/local_manifest/master/mzlocal_q.xml"
 
