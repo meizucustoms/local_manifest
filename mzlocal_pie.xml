@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <project name="meizucustoms/android_device_meizu_m1721" path="device/meizu/m1721" remote="github" revision="pixelexperience-pie" />
-  <project name="meizucustoms/proprietary_vendor_meizu_m1721" path="vendor/meizu/m1721" remote="github" revision="pixelexperience-pie" />
+  <project name="meizucustoms/vendor_meizu_m1721" path="vendor/meizu/m1721" remote="github" revision="pixelexperience-pie" />
+  <!-- vendor/meizu/m1721 is a mirror of GitLab vendor, thx GitHub for so small repository max size -->
   <project name="meizucustoms/android_kernel_meizu_m1721" path="kernel/meizu/m1721" remote="github" revision="pixelexperience-pie" />
+  <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="lineage-16.0" />
 </manifest>
